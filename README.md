@@ -120,3 +120,5 @@ kann man auf dem PC **Debug-Tasten** verwenden, um die Module zu testen:
 | **H**                    | Hantelmodus                              |
 | **R**                    | Reset                                    |
 
+---
+📄 [Projektbericht als PDF ansehen](document)
